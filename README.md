@@ -1,1 +1,1 @@
-This is the shell repository training
+Read me
